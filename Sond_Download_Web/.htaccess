@@ -1,4 +1,4 @@
-// This is code for removing automatic index.php file from url
+// This is code for removing automatic index.php file from url.
 
 
 RewriteEngine On
